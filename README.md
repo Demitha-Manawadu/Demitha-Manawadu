@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demithamanawadu&label=Profile%20views&color=0e75b6&style=flat" alt="demithamanawadu" /> </p>
 
-- 🔭 I’m currently working on **EN2091-Analog Electronics Project**
-
+- 🔭 I’m currently working on **EN2091-Analog Electronics Project** and **EN2533-Robotic Design project**
 - 🌱 I’m currently learning **Solidworks**
-
-- and **EN2533-Robotic Design project**
 
 - 📫 How to reach me **demithamanawadu@gmail.com**
 
