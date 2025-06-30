@@ -16,13 +16,13 @@ Beyond academics, I’m active in the university’s Classical Music Society as 
     <td align="center">
       <img src="images/2.png" width="300"/><br>
       <b>BSFix</b><br>
-      Automated Black Soldier Fly composting system to reduce organic waste.<br>
+      Automated ML and IoT powerd BSF composting system to reduce organic waste.<br>
       <a href="https://github.com/Demitha-Manawadu/BSFix.git">GitHub Link</a>
     </td>
     <td align="center">
       <img src="images/1.png" width="300"/><br>
       <b>Strain Gauge Torque Sensor</b><br>
-      Torque sensing using full-bridge strain gauge setup on a rotating shaft.<br>
+      Torque sensing using BLE technology for wireless transmission to measure dynamic torque.<br>
       <a href="#">GitHub Link</a>
     </td>
   </tr>
@@ -30,7 +30,7 @@ Beyond academics, I’m active in the university’s Classical Music Society as 
     <td align="center">
       <img src="images/4.png" width="300"/><br>
       <b>Automatic Solar Tracker</b><br>
-      Dual-axis solar tracker with complex analog circuits and a custom 6-section PCB.<br>
+      Dual-axis solar tracker with complex analog circuits with PID tuner and a custom 6-section PCB.<br>
       <a href="https://github.com/Demitha-Manawadu/Automatic-Solar-Tracker-Analog-electronics-project.git">GitHub Link</a>
     </td>
     <td align="center">
