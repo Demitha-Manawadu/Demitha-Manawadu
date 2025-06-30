@@ -12,10 +12,36 @@ Beyond engineering, I enjoy playing the piano and exploring the science behind m
 
 ## 📌 Highlighted Projects
 
-| ![](images/bsfix.jpg) <br>**BSFix**<br>Automated Black Soldier Fly composting system to reduce organic waste. | ![](images/torque_sensor.jpg) <br>**Strain Gauge Torque Sensor**<br>Torque sensing using full-bridge strain gauge setup on a rotating shaft. |
-| --- | --- |
-| ![](images/bioplastic.jpg) <br>**Bioplastic Revolution**<br>Plastic pollution monitoring device using microplastic detection sensors. | ![](images/robotic_arm.jpg) <br>**Robotic Design Project**<br>4-DOF robotic arm with inverse kinematics and water control system. |
-| ![](images/solar_tracker.jpg) <br>**Automatic Solar Tracker**<br>Dual-axis solar tracker to optimize solar panel efficiency using LDRs. | ![](images/shoe_cleaner.jpg) <br>**Shoe Cleaning & Drying Machine**<br>Automated shoe care device integrating cleaning and drying functions. |
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/2.png" width="300"/><br>
+      <b>BSFix</b><br>
+      Automated Black Soldier Fly composting system to reduce organic waste.<br>
+      <a href="https://github.com/Demitha-Manawadu/BSFix.git">GitHub Link</a>
+    </td>
+    <td align="center">
+      <img src="images/1.png" width="300"/><br>
+      <b>Strain Gauge Torque Sensor</b><br>
+      Torque sensing using full-bridge strain gauge setup on a rotating shaft.<br>
+      <a href="#">GitHub Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/4.png" width="300"/><br>
+      <b>Automatic Solar Tracker</b><br>
+      Dual-axis solar tracker with complex analog circuits and a custom 6-section PCB.<br>
+      <a href="https://github.com/Demitha-Manawadu/Automatic-Solar-Tracker-Analog-electronics-project.git">GitHub Link</a>
+    </td>
+    <td align="center">
+      <img src="images/3.png" width="300"/><br>
+      <b>Robotic Design Project</b><br>
+      4-DOF robotic arm with C++ coding, power circuitry, and sensor integration.<br>
+      <a href="https://github.com/Demitha-Manawadu/Robotic-Design-Project.git">GitHub Link</a>
+    </td>
+  </tr>
+</table>
 
 ---
 **demithamanawadu@gmail.com**
