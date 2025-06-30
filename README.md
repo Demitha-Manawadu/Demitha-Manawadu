@@ -23,7 +23,7 @@ Beyond academics, I’m active in the university’s Classical Music Society as 
       <img src="images/1.png" width="300"/><br>
       <b>Strain Gauge Torque Sensor</b><br>
       Torque sensing using BLE technology for wireless transmission to measure dynamic torque.<br>
-      <a href="#">GitHub Link</a>
+      <a href="https://github.com/Demitha-Manawadu/Torque-Sensor">GitHub Link</a>
     </td>
   </tr>
   <tr>
