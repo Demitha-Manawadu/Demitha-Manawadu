@@ -1,14 +1,13 @@
 
 # Demitha Manawadu  
-**Passionate in Electronic Product Development | Embedded Systems with IoT | Machine Learning**
+**Passionate in Embedded Systems | Machine Learning & Computer Vision | IoT | Electronics**
 
-I’m Demitha Manawadu, an Electronic and Telecommunication Engineering Undergraduate at the University of Moratuwa. I am passionate about developing innovative embedded systems, combining IoT and machine learning to solve real-world problems.
+I’m an Electronic and Telecommunication Engineering undergraduate passionate about creating innovative solutions that address real-world challenges. My interests center on embedded systems, machine learning and computer vision, IoT, and electronic product development, with a keen focus on embedded electronics in the automotive industry.
 
-In my academic journey, I have contributed to a variety of impactful hardware projects. My work ranges from automation and robotics to sustainable technology for environmental and agricultural applications.
+I’ve led and contributed to impactful engineering projects, working closely with cross-disciplinary teams to turn ideas into functional designs. These experiences have honed both my technical skills and leadership abilities.
 
-Beyond engineering, I enjoy playing the piano and exploring the science behind music. I often experiment with merging musical concepts with electronic signal processing, sparking creativity both technically and artistically.
+Beyond academics, I’m active in the university’s Classical Music Society as a pianist and vocalist, and I volunteer in several impactful IEEE projects.
 
----
 
 ## 📌 Highlighted Projects
 
