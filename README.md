@@ -2,7 +2,7 @@
 # Demitha Manawadu  
 **Passionate in Embedded Systems | Machine Learning & Computer Vision | IoT | Electronics**
 
-I’m an Electronic and Telecommunication Engineering undergraduate passionate about creating innovative solutions that address real-world challenges. My interests center on embedded systems, machine learning and computer vision, IoT, and electronic product development, with a keen focus on embedded electronics in the automotive industry.
+I’m an Electronic and Telecommunication Engineering undergraduate passionate about creating innovative solutions that address real-world challenges. My interests center on Embedded Systems, Machine Learning and computer vision, IoT,Robotics and electronic Product Development, with a keen focus on embedded electronics in the automotive industry.
 
 I’ve led and contributed to impactful engineering projects, working closely with cross-disciplinary teams to turn ideas into functional designs. These experiences have honed both my technical skills and leadership abilities.
 
